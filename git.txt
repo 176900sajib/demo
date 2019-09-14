@@ -1,0 +1,14 @@
+source control:
+cvs, svn, starteam, clearcase,tfs,vss, cit
+
+
+.............
+three stage of git:
+1. working directory[within the working directory, there is a hidden folder called the '.git' folder,
+                     that contain the actual repository.....git repository manage the git commit history ]
+2. staging area- pre-commit holding area
+3. commit- git repository(history )
+
+what is repository:
+repository contains history of changes and any special configuration, a repository all the file related to a specific project
+and application.
